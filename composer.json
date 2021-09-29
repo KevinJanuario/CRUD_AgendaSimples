@@ -1,0 +1,8 @@
+{
+    "name": "crud/agenda",
+    "autoload":{
+        "psr-4":{
+            "App\\":"app/"
+        }
+    }
+}
